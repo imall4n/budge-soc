@@ -4,3 +4,5 @@ https://opensecure.medium.com/your-own-free-security-incident-response-platform-
 
 TheHive-Wazuh
 https://wazuh.com/blog/using-wazuh-and-thehive-for-threat-protection-and-incident-response/
+
+https://documentation.wazuh.com/current/user-manual/capabilities/vulnerability-detection/configuring-scans.html
