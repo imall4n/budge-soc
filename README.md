@@ -8,3 +8,5 @@ https://wazuh.com/blog/using-wazuh-and-thehive-for-threat-protection-and-inciden
 https://documentation.wazuh.com/current/user-manual/capabilities/vulnerability-detection/configuring-scans.html
 
 https://documentation.wazuh.com/current/user-manual/capabilities/log-data-collection/syslog.html
+
+https://sgpfiles.netgate.com/mirror/downloads/
