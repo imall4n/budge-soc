@@ -28,3 +28,6 @@ network:
     
 
 sudo netplay apply
+
+
+https://raw.githubusercontent.com/olibavictor/OpenSoC/main/Wazuh/decoders/pfsense-custom-decoder.xml
