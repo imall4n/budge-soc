@@ -10,3 +10,21 @@ https://documentation.wazuh.com/current/user-manual/capabilities/vulnerability-d
 https://documentation.wazuh.com/current/user-manual/capabilities/log-data-collection/syslog.html
 
 https://sgpfiles.netgate.com/mirror/downloads/
+
+sudo nano /etc/netplan/01-netcfg.yaml
+
+network:
+    ethernets:
+        enp0s3:
+            dhcp4: no
+            addresses:
+              - 10.147.0.12/24
+            gateway4: 10.147.0.10
+            nameservers:
+              addresses:
+                - 1.1.1.1
+                - 8.8.8.8
+    version: 2
+    
+
+sudo netplay apply
