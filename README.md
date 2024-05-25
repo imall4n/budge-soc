@@ -33,3 +33,6 @@ sudo netplay apply
 https://raw.githubusercontent.com/olibavictor/OpenSoC/main/Wazuh/decoders/pfsense-custom-decoder.xml
 
 https://raw.githubusercontent.com/olibavictor/OpenSoC/main/Wazuh/rules/2060-pfsense-rules.xml
+
+
+https://pt.linkedin.com/pulse/monitorando-firewall-pfsense-com-o-wazuh-athus-fernandes
