@@ -40,3 +40,4 @@ https://pt.linkedin.com/pulse/monitorando-firewall-pfsense-com-o-wazuh-athus-fer
 wget https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh
 
 
+hping3 --flood -S -V --rand-source IP
