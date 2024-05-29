@@ -37,4 +37,6 @@ https://raw.githubusercontent.com/olibavictor/OpenSoC/main/Wazuh/rules/2060-pfse
 
 https://pt.linkedin.com/pulse/monitorando-firewall-pfsense-com-o-wazuh-athus-fernandes
 
+wget https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.sh
+
 
