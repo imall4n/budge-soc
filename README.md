@@ -43,3 +43,5 @@ wget https://raw.githubusercontent.com/IamCarron/DVWA-Script/main/Install-DVWA.s
 hping3 --flood -S -V --rand-source IP
 
 https://www.youtube.com/watch?v=xiJOzZQ3YwM
+
+https://opensecure.medium.com/your-own-free-security-incident-response-platform-in-minutes-bff8c25b45ac
