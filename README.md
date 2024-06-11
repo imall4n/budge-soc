@@ -69,3 +69,5 @@ sudo suricata -T -c /etc/suricata/suricata.yaml -v
 
 https://www.youtube.com/watch?v=NB_u9m-MMcY
 
+https://www.elastic.co/guide/en/kibana/current/deb.html
+https://stackoverflow.com/questions/74287799/kibana-error-kibana-server-is-not-ready-yet
