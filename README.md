@@ -73,3 +73,5 @@ https://www.elastic.co/guide/en/kibana/current/deb.html
 https://stackoverflow.com/questions/74287799/kibana-error-kibana-server-is-not-ready-yet
 
 https://www.youtube.com/watch?v=roJQ-7F_Vgg&t=450s
+
+https://medium.com/@souzaw/elastic-security-coleta-de-logs-para-auditoria-no-pfsense-firewall-7118945bd3dc
