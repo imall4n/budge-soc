@@ -48,6 +48,7 @@ https://opensecure.medium.com/your-own-free-security-incident-response-platform-
 
 **DFIR-IRIS**
 https://dfir-iris.org/
+https://wazuh.com/blog/enhancing-incident-response-with-wazuh-and-dfir-iris-integration/
 
 **TheHive**
 apt-get update
