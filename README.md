@@ -46,6 +46,23 @@ https://www.youtube.com/watch?v=xiJOzZQ3YwM
 
 https://opensecure.medium.com/your-own-free-security-incident-response-platform-in-minutes-bff8c25b45ac
 
+**DFIR-IRIS**
+https://dfir-iris.org/
+
+**TheHive**
+apt-get update
+apt-get install \
+    ca-certificates \
+    curl \
+    gnupg \
+    lsb-releasecurl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+apt-get updateapt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+
+docker run --rm -p 9000:9000 thehiveproject/thehive:latest
+
 
 **SURICATA**
 sudo vi /etc/suricata/suricata.yaml
@@ -77,5 +94,6 @@ https://www.youtube.com/watch?v=roJQ-7F_Vgg&t=450s
 https://medium.com/@souzaw/elastic-security-coleta-de-logs-para-auditoria-no-pfsense-firewall-7118945bd3dc
 
 Configuração ModSecurity
+https://wazuh.com/blog/analyzing-modsecurity-events-with-wazuh/
 https://www.inmotionhosting.com/support/server/apache/install-modsecurity-apache-module/
 SecAuditLogFormat JSON
