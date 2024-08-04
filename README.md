@@ -78,3 +78,4 @@ https://medium.com/@souzaw/elastic-security-coleta-de-logs-para-auditoria-no-pfs
 
 Configuração ModSecurity
 https://www.inmotionhosting.com/support/server/apache/install-modsecurity-apache-module/
+SecAuditLogFormat JSON
