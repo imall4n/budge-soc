@@ -75,3 +75,6 @@ https://stackoverflow.com/questions/74287799/kibana-error-kibana-server-is-not-r
 https://www.youtube.com/watch?v=roJQ-7F_Vgg&t=450s
 
 https://medium.com/@souzaw/elastic-security-coleta-de-logs-para-auditoria-no-pfsense-firewall-7118945bd3dc
+
+Configuração ModSecurity
+https://www.inmotionhosting.com/support/server/apache/install-modsecurity-apache-module/
