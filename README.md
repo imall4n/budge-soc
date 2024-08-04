@@ -47,6 +47,7 @@ https://www.youtube.com/watch?v=xiJOzZQ3YwM
 https://opensecure.medium.com/your-own-free-security-incident-response-platform-in-minutes-bff8c25b45ac
 
 **DFIR-IRIS**
+snap install docker
 https://dfir-iris.org/
 https://wazuh.com/blog/enhancing-incident-response-with-wazuh-and-dfir-iris-integration/
 
